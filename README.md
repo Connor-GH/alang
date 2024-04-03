@@ -12,9 +12,9 @@ It's made in C for maximum memory safety! 🚀
 
 changelog:
 
-- 4/1/23: rewrote in C 🚀 from Rust 🦀
-- 4/1/23: rewrote in Rust 🦀 from CamelCaseScript </>
-- 4/1/23: rewrote in CamelCaseScript </> from SnakeLang3.12 🐍
-- 4/1/23: rewrote in SnakeLang3.12 🐍 from Assembly ⚡ (in 52 architectures)
-- 4/1/23: rewrote in Assembly ⚡ (in 52 architectures) from C 🤮
+- 4/1/24: rewrote in C 🚀 from Rust 🦀
+- 4/1/24: rewrote in Rust 🦀 from CamelCaseScript </>
+- 4/1/24: rewrote in CamelCaseScript </> from SnakeLang3.12 🐍
+- 4/1/24: rewrote in SnakeLang3.12 🐍 from Assembly ⚡ (in 52 architectures)
+- 4/1/24: rewrote in Assembly ⚡ (in 52 architectures) from C 🤮
 
